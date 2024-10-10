@@ -1,6 +1,6 @@
 # Build Folders
 *.[Cc]ache
-*bin/
+bin/
 obj/
 
 # User-specific files
