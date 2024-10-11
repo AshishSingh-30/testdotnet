@@ -1,6 +1,6 @@
 # Build Folders
 *.[Cc]ache
-
+bin/
 obj/
 **/obj/
 
