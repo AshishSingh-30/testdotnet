@@ -2,6 +2,7 @@
 *.[Cc]ache
 bin/
 obj/
+**/obj/
 
 # User-specific files
 *.suo
@@ -13,7 +14,7 @@ obj/
 .vscode/
 .code-workspace
 
-# Rider
+# Riderjhsd
 .idea/
 
 # Windows Files
